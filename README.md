@@ -12,6 +12,11 @@ Projekt analizy skład się z kilku plików:
 
 Główny plik projektu to ten o rozszerzeniu .pdf, pliki w formacie .png to procesy które zostały z niego wydzielone dla lepszej czytelności.
 
+Projekt możesz przejrzeć na kilka sposobów
+* bezpośrednio na githubie wchodząc w każdy link po kolei
+* pobierając go na swój komputer poprzez przycisk "Code" w prawym górnym rogu a później download as a zip
+* wchodząc na każdy plik po kolei na githubie i klikająć "Download" w prawym górnym rogu
+
 ## Sugestie
-Gdyby po lekturze mojej analizy, okazało się, że wkradł się tam jakiś błąd (:cold_sweat:) napisz proszę na agnieszka.wojciechowska1@onet.pl jak najprędzej zweryfikuję i to poprawię :smiley:! 
+Gdyby po lekturze mojej analizy, okazało się, że wkradł się tam jakiś błąd (:cold_sweat:) lub coś było nie jasne, napisz proszę na agnieszka.wojciechowska1@onet.pl jak najprędzej zweryfikuję i to poprawię :smiley:! 
 
