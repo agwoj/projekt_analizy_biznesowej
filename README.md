@@ -13,5 +13,5 @@ Projekt analizy skład się z kilku plików:
 Główny plik projektu to ten o rozszerzeniu .pdf, pliki w formacie .png to procesy które zostały z niego wydzielone dla lepszej czytelności.
 
 ## Sugestie
-Gdy po lekturze mojej analizy, okazało się ,że wkradł się tam jakiś błąd (:cold_sweat:) napisz proszę na agnieszka.wojciechowska1@onet.pl jak najprędzej to poprawię :smiley: ! 
+Gdyby po lekturze mojej analizy, okazało się, że wkradł się tam jakiś błąd (:cold_sweat:) napisz proszę na agnieszka.wojciechowska1@onet.pl jak najprędzej zweryfikuję i to poprawię :smiley:! 
 
